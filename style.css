@@ -131,14 +131,13 @@ img {
 }
 
 .moving-text h1 {
-    font-size: 3vw;
+    font-size: 3.2vw;
     display: inline-block;
     padding-left: 20px;
     padding-right: 20px;
     font-weight: 100;
     color: black;
-    font-family: apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
-        Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    font-family: Golden Class Font Duo serif;
     text-transform: uppercase;
 }
 
